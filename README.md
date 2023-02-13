@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ChagataiDuru
 - 👀 I’m interested in Game Development and Web Backend 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Go
 - 🕹️ Creating games with C# and Unity
+- 🖥  Backend Developer Python-Django
 - 📫 How to reach me Discord:Chagatai#0467
 
 <!---
