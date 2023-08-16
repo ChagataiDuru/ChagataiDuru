@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ChagataiDuru
 - 👀 I’m interested in Game and Backend Development
-- 🌱 I’m currently learning NodeJS
 - 🕹️ Creating games with C# and Unity
-- 🖥  Backend Developer Django-NodeJS-Express 
+- 🖥  Backend Developer Django-NestJS-SpringBoot
 - 📫 How to reach me Discord:Chagatai#0467
 
 <!---
