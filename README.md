@@ -4,7 +4,7 @@
 - 🖥  Backend Developer Django-NestJS-SpringBoot
 - 📫 How to reach me Discord:Chagatai#0467
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChagataiDuru&layout=compact)
+#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChagataiDuru&layout=compact)
 
 <!---
 ChagataiDuru/ChagataiDuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
