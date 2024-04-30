@@ -7,7 +7,7 @@
 
 📫 Reach me on Discord: .chagatai
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChagataiDuru&layout=compact&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChagataiDuru&layout=compact&hide=css,scss,html&theme=tokyonight)
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChagataiDuru&layout=compact)
 
