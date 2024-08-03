@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ChagataiDuru, Game and Backend Developer
-- 👀 I’m interested in Mainly Game and Backend Development
 - 🕹️ Proficient in C#, Unity, and creating games
 - 🕵️‍♂️ Exploring Rust with Bevy, and embedded systems for graduation project
 - 💻 Backend development with Django, NestJS, and Spring Boot
