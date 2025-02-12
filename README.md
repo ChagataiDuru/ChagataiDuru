@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ChagataiDuru, Game and Backend Developer
+- 👋 Hi, I’m @ChagataiDuru, FullStack Developer at day Game Developer at night
 - 🕹️ Proficient in C#, Unity, and creating games
 - 🕵️‍♂️ Exploring Rust with Bevy, and embedded systems for graduation project
-- 💻 Backend development with Django, NestJS, and Spring Boot
-- 🌐 Frontend skills with AngularJS
+- 💻 Backend development with .NET, Django and NestJS
+- 🌐 Frontend skills with AngularJS,React
 
 📫 Reach me on Discord: .chagatai
 
