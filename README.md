@@ -40,10 +40,6 @@ I'm a **Full-Stack Developer** working on enterprise software and AI-powered sys
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChagataiDuru&layout=compact&exclude_repo=CS304-IntroAI-CollabNotebooks&hide=jupyter-notebook,css,scss,html&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChagataiDuru&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ### 🎯 Featured Projects
@@ -64,10 +60,6 @@ I'm a **Full-Stack Developer** working on enterprise software and AI-powered sys
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cagatay.duru@ozu.edu.tr)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChagataiDuru&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
 
 <!---
 ChagataiDuru/ChagataiDuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
